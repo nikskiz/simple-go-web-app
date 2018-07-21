@@ -12,8 +12,12 @@ export DATABASE_NAME=****
 ./main
 ```
 
-or 
+or
 
 ```
 go run main.go
 ```
+
+* TODO's
+  * Using unicreds or credstash for credentials to be encrypted
+  * Add unit testing
